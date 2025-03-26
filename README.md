@@ -1,5 +1,7 @@
 # MMGen: Unified Multi-modal Image Generation and Understanding in One Go
-In this paper, we introduce MMGen, a unified framework that integrates multiple generative tasks into a single diffusion model. This includes: (1) multi-modal category-conditioned generation, where multi-modal outputs are generated simultaneously through a single inference process, given category information; (2) multi-modal visual understanding, which accurately predicts depth, surface normals, and segmentation maps from RGB images; and (3) multi-modal conditioned generation, which produces corresponding RGB images based on specific modality conditions and other aligned modalities.
+In this paper, we introduce MMGen, a unified framework that integrates multiple generative tasks into a single diffusion model, more importantly, in one diffusion process. 
+
+This includes: (1) multi-modal category-conditioned generation, where multi-modal outputs are generated simultaneously through a single inference process, given category information; (2) multi-modal visual understanding, which accurately predicts depth, surface normals, and segmentation maps from RGB images; and (3) multi-modal conditioned generation, which produces corresponding RGB images based on specific modality conditions and other aligned modalities.
 
 
 ![](./data/teaser.png)
@@ -8,7 +10,7 @@ In this paper, we introduce MMGen, a unified framework that integrates multiple 
 
 Code is coming soon.
 
-If you have any questions or want any discussions, feel free to drop me an [email](https://jiepengwang.github.io).
+If you have any questions about this project or want any discussions, feel free to drop me an [email](https://jiepengwang.github.io).
 
 
 
