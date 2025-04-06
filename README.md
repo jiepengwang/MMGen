@@ -6,7 +6,7 @@ This includes: (1) multi-modal category-conditioned generation, where multi-moda
 
 ![](./data/teaser.png)
 
-## [Project page](https://jiepengwang.github.io/MMGen/) |  [Paper](https://arxiv.org/abs/XXX)  |  [Data](https:***)
+## [Project page](https://jiepengwang.github.io/MMGen/) |  [Paper](https://arxiv.org/abs/2503.20644)  |  [Data](https:***)
 
 Code is coming soon.
 
@@ -19,10 +19,10 @@ If you have any questions about this project or want any discussions, feel free 
 Cite as below if you find this repository is helpful to your project:
 
 ```
-@article{jiepeng2025mmgen,
-  author    = {Wang, Jiepeng and Wang, Zhaoqing and Pan, Hao and Liu, Yuan and Yu, Dongdong and Wang, Changhu and Wang, Wenping},
-  title     = {MMGen: Unified Multi-modal Image Generation and Understanding in One Go},
-  journal   = {arXiv},
-  year      = {2025},
+@article{wang2025mmgen,
+  title={MMGen: Unified Multi-modal Image Generation and Understanding in One Go},
+  author={Wang, Jiepeng and Wang, Zhaoqing and Pan, Hao and Liu, Yuan and Yu, Dongdong and Wang, Changhu and Wang, Wenping},
+  journal={arXiv preprint arXiv:2503.20644},
+  year={2025}
 }
 ```
