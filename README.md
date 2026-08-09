@@ -15,7 +15,7 @@ ImageNet training recipe, Hypersim fine-tuning recipe, modality preprocessing,
 and inference code for these tasks. MMGen uses a shared VAE and a multi-modal
 Diffusion Transformer with modality-decoupled timesteps and task embeddings.
 
-## [Project Page](https://jiepengwang.github.io/MMGen/) | [Paper](https://arxiv.org/abs/2503.20644) | [Code](https://github.com/jiepengwang/MMGen/) | [Checkpoints](https://huggingface.co/jiepengwang/MMGen)
+## [Project Page](https://jiepengwang.github.io/MMGen/) | [Paper](https://arxiv.org/abs/2503.20644) | [Code](https://github.com/jiepengwang/MMGen/) | [Checkpoints](https://www.modelscope.cn/models/wangjiepeng/MMGen)
 
 ![MMGen teaser](asset/teaser.png)
 
